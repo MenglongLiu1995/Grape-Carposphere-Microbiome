@@ -266,7 +266,7 @@ mean_otu = as.data.frame(rowMeans(otu_RA))
 sum(mean_otu)
 
 sum(mean_otu[sig_otus,])
-# [1] 0.205817
+# [1] 0.02616871
 #################
 ### for  sites
 
